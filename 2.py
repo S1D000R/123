@@ -1,0 +1,6 @@
+number = input("1 число")
+number2 = input("2 число")
+number =int(number)
+number2 = int(number2)
+total = (number+number2)
+print(total)
